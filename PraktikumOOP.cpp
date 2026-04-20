@@ -24,3 +24,11 @@ elektronik.kategori = "Elektronik" ;
 elektronik.tanggalProduksi = "2025-04-21" ;
 
 elektronik.printData();
+    Barang nonElektronik;
+nonElektronik.nama = "Keranjang" ;
+nonElektronik.jumlah = 25;
+nonElektronik.kategori = "nonElektronik" ;
+nonElektronik.tanggalProduksi = "2025-04-21" ;
+
+nonElektronik.printData();
+}
