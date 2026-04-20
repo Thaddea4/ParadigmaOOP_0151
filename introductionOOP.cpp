@@ -15,3 +15,4 @@ void printData(){
 }; // batas class
 
 int main(){
+   Mahasiswa mhs;
