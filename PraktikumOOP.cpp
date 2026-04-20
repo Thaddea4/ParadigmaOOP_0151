@@ -22,3 +22,5 @@ elektronik.nama = "Setrika" ;
 elektronik.jumlah = 80;
 elektronik.kategori = "Elektronik" ;
 elektronik.tanggalProduksi = "2025-04-21" ;
+
+elektronik.printData();
