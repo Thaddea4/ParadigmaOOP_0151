@@ -15,3 +15,5 @@ void printData(){
     cout << "Tanggal Produksi : " << tanggalProduksi << endl; 
 }
 }; // batas class
+
+int main(){
