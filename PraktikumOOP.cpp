@@ -17,3 +17,4 @@ void printData(){
 }; // batas class
 
 int main(){
+        Barang elektronik;
